@@ -1,1 +1,1 @@
-["shipit.coffee", 'github-pull-request-notifier.coffee', 'github-commits.coffee']
+["shipit.coffee", "github-pull-request-notifier.coffee", "github-commits.coffee"]
