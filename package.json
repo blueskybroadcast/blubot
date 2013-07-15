@@ -24,6 +24,7 @@
   },
 
   "dependencies": {
+    "htmlparser":    "1.7.6",
     "hubot":         "2.5.5",
     "hubot-scripts": "2.4.6",
     "gitio":         "1.0.1",
