@@ -28,7 +28,9 @@
     "hubot":         "2.5.5",
     "hubot-scripts": "2.4.6",
     "gitio":         "1.0.1",
-    "soupselect":    "0.2.0"
+    "querystring":   "*",
+    "soupselect":    "0.2.0",
+    "url":           "*"
   },
 
   "engines": {
