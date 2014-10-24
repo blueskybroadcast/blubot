@@ -7,4 +7,6 @@ module.exports = (robot) ->
       # and makes an http get call
       .get() (error, response, body) ->
         # passes back the complete reponse
-        msg.send body
+        json = JSON.parse(body)
+        msg.send json.thought
+
