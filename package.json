@@ -24,6 +24,7 @@
   },
 
   "dependencies": {
+    "githubot":      "0.4.x",
     "htmlparser":    "1.7.6",
     "hubot":         "2.6.0",
     "hubot-scripts": "2.5.0",
